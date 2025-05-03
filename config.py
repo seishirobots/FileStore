@@ -37,7 +37,7 @@ BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/CodeflixSupport")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
 START_PIC = os.environ.get("START_PIC", "https://ibb.co/DH3N4Lyr")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://ibb.co/DH3N4Lyr")
 #--------------------------------------------
 
 #--------------------------------------------
